@@ -12,6 +12,4 @@ Initially a WebForms application, this and all other Abion web applications will
 This MVC 5 Web Application has been published to the Microsoft Azure Cloud Platform at the following temporary URL: 
 https://abiondotnet20181226012638.azurewebsites.net/
 
-This will soon be moved to the domain http://www.abion.net, but normally domain transfers can take a day or more.
-
 This solution is freely distributable under the terms of the MIT open source license
